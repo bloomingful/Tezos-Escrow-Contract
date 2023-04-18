@@ -4,7 +4,7 @@ An escrow smart contract in Tezos blockchain built using ReactJS.
 
 ## Website
 
-A serverless website platform of the project is publicly available at https://tezos-escrow-contract.vercel.app/
+A serverless website platform of the project is publicly available at https://tezos-escrow.vercel.app/
 
 <img src="screengrabs/screen1.png" width="1920"/>
 
