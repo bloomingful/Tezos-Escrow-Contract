@@ -6,6 +6,8 @@ An escrow smart contract in Tezos blockchain built using ReactJS.
 
 A serverless website platform of the project is publicly available at https://tezos-escrow-contract.vercel.app/
 
+<img src="screengrabs/screen1.png" width="1920"/>
+
 ## Smart Contract
 
 The source code is found in the root folder named `Escrow.py`.
