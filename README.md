@@ -8,6 +8,8 @@ A serverless website platform of the project is publicly available at https://te
 
 ## Smart Contract
 
+The source code is found in the root folder named `Escrow.py`.
+
 The operations, entrypoints, storage, and code of the contract can be viewed using its address `KT1G5xYQnCpN2pnwgR17CDMJUQk4v9xfaFUT`.
 
 Some Tezos contract explorers are:
