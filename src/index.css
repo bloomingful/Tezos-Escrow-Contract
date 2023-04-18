@@ -1,0 +1,21 @@
+#root,
+html,
+body {
+  height: 100%;
+  overflow: auto;
+}
+
+/* .btn-lg {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  width:100%;
+} */
+
+hr {
+  margin: 1rem 0;
+  color: inherit;
+  background-color: currentColor;
+  border: 0;
+  opacity: 0.25;
+}
